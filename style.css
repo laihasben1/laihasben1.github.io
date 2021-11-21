@@ -34,3 +34,17 @@ video {
 .pink {
   background-color: #fddde6
 }
+
+.landing {
+  background-color: #7BDFF2
+}
+
+a {
+  background-color: Pink;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-style: inset;
+}
